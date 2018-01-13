@@ -33,6 +33,7 @@ class Book
     @genre
   end
 
-  def turn_page 
+  def turn_page
     puts "I'm turning the page"
+  end
 end
